@@ -1,4 +1,4 @@
-![logo](https://github.com/100rabhk2812/100rabhk2812/blob/main/Github%20Banner.png)
+![logo](https://github.com/100rabhk2812/100rabhk2812/blob/main/https://res.cloudinary.com/dqlvyzz4i/image/upload/v1762359863/Black_Minimalist_Daily_Quote_LinkedIn_Banner_zsrw6p.png)
 <h1 align="center">Hi 👋, I'm Saurabh Kedarakr</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
